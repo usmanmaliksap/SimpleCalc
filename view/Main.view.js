@@ -15,7 +15,7 @@ sap.ui.jsview("simpleCalculator.view.Main", {
 	createContent: function(oController) {
 		
 		var oLblFNumber = new sap.m.Label("lblFirst", {
-			text: "First Number...."
+			text: "First Number....."
 		});
 		
 		var oInpFNumber = new sap.m.Input("inpFirst", {
